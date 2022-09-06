@@ -13,24 +13,6 @@ tags:
   - API
 ---
 
-<style>
-table {
-  border-radius: 10px;
-  overflow: hidden;
-  border-collapse: collapse;
-}
-table th {
-    padding-top: 18px;
-    padding-bottom: 18px
-    font-family: Lato-Bold;
-    font-size: 18px;
-    color: #fff;
-    line-height: 1.4;
-    background-color: #6c7ae0;
-    width:15%
-}
-</style>
-
 ## LostArkGuide a pour but d'aider les joueurs du jeu [Lost Ark](https://www.playlostark.com/fr-fr/)
 
 ## LostArkGuide site web
