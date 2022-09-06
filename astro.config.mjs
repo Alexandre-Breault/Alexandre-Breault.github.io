@@ -5,4 +5,5 @@ import preact from "@astrojs/preact";
 export default defineConfig({
   integrations: [preact()],
   server: { port: 5000 },
+  site: "https://Alexandre-Breault.github.io",
 });
