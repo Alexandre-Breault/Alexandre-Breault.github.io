@@ -2,7 +2,7 @@
 layout: ../../layouts/project.astro
 title: Dislyte - Helper
 client: Self
-publishDate: 2020-06-16 11:10:00 (on github)
+publishDate: 2022-06-16 11:10:00
 img: /assets/dislyte-helper/dislyte.png
 description: |
   Je réalise un projet non officiel sur le jeu Dislyte ...

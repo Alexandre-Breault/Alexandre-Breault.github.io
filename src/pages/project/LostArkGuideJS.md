@@ -2,7 +2,7 @@
 layout: ../../layouts/project.astro
 title: LostArkGuide
 client: Self
-publishDate: 2020-03-05 
+publishDate: 2022-02-25 17:55:00
 img: /assets/LostArkGuide/lostark.webp
 description: |
   Projet non officiel sur le jeu Lost Ark
