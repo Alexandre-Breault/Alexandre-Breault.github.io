@@ -3,7 +3,7 @@ layout: ../../layouts/project.astro
 title: Dislyte - Helper
 client: Self
 publishDate: 2020-06-16 11:10:00 (on github)
-img: https://images.unsplash.com/photo-1547234935-80c7145ec969?fit=crop&w=1400&h=700&q=75
+img: /assets/dislyte-helper/dislyte.png
 description: |
   Je réalise un projet non officiel sur le jeu Dislyte ...
 tags:
@@ -32,3 +32,9 @@ Données trouvable sur le site
   - [animejs](https://animejs.com/)
 - Script de police
   - [Google Font Api](https://developers.google.com/fonts)
+
+---
+
+![GitHub package.json version](https://img.shields.io/github/package-json/v/SandBox-AD/Helper-Dislyte?color=r&style=for-the-badge)
+
+[github repository](https://github.com/SandBox-AD/Helper-Dislyte)

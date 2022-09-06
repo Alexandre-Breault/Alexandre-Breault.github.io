@@ -5,10 +5,10 @@ function Nav() {
 	return (
 		<nav className={Styles.nav}>
 			<a className={Styles.logolink} href="/">
-				<div className={Styles.monogram}>JW</div>
+				<div className={Styles.monogram}>Home</div>
 			</a>
 			<a className={Styles.link} href="/projects">
-				Portfolio
+				Projets
 			</a>
 			<a className={Styles.link} href="/about">
 				About
